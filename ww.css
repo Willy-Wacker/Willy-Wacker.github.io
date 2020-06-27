@@ -1,0 +1,33 @@
+body {
+	background-color:			black;
+	font-family:				sans;
+	font-size:					large;
+	}
+
+header {
+	padding: 					0.25em;
+	background-color: 			#4D4D4D;
+	color:						silver;
+	text-align:					center;
+	}
+
+article {
+	padding: 					0.25em;
+	margin-top:					0.25em;
+	background-color: 			grey;
+	}
+
+p {
+	text-align:					justify;
+	}
+
+.autor {
+	font-style:					italic;
+	}
+
+.ort {
+	font-weight:				bolder;
+	}
+.ort::after {
+	content:					" — ";
+	}
