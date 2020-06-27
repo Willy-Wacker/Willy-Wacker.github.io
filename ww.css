@@ -21,6 +21,10 @@ p {
 	text-align:					justify;
 	}
 
+code {
+	margin-left:				10%;
+	}
+
 .autor {
 	font-style:					italic;
 	}
